@@ -1,0 +1,6 @@
+@HahaAPI_HostAddress = http://localhost:5158
+
+GET {{HahaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
